@@ -1,5 +1,5 @@
 1. make sure AMPPS is up and running (backend will connect to it) 
-1. clone the repository: `git clone https://github.com/kauffmanes/infsci-2710-project.git`
+1. clone the repository
 2. install backend: cd backend then npm install
 3. install frontend: cd client then npm install
 4. install yarn -> https://yarnpkg.com/lang/en/docs/install/#debian-stable
